@@ -1,0 +1,19 @@
+git init  /Que hace este codigo? Crea un repositorio Local
+git add README.md	/Este codigo es opcional
+git commit -m "first commit"	No dio referencia
+git branch -M main	Crea una rama 
+git remote add origin https://github.com/LASandino/MiPrimerRepositorioRemoto.git
+este codigo enlaza el repositorio remoto con el repositorio local
+
+
+
+Codigos a usar para enlazar el repositorio remoto con el repositorio local
+git add. // Agrega los cambios pra 
+git commit -m "Primer commit"
+git push
+
+git config --global user.email "LESTER.SANDINO122@est.unanleon.edu.ni"
+git config --global user.name "LASandino"
+
+git remote add origin https://github.com/LASandino/MiPrimerRepositorioRemoto.git
+este codigo enlaza el repositorio remoto con el repositorio local
