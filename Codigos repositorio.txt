@@ -17,3 +17,5 @@ git config --global user.name "LASandino"
 
 git remote add origin https://github.com/LASandino/MiPrimerRepositorioRemoto.git
 este codigo enlaza el repositorio remoto con el repositorio local
+
+klasdflkjalksdflkasdf
